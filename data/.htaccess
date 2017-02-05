@@ -1,0 +1,5 @@
+# .htaccess-Datei für Web-Verzeichnis /service
+AuthUserFile /home/doesnotexist/.htpasswd
+AuthName "Admin"
+AuthType Basic
+Require valid-user
