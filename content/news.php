@@ -1,5 +1,35 @@
 <h1>Aktuelles</h1>
 
+
+<h2>Bach mal ganz anders</h2>
+<div  >
+    
+<p >Mi, 08. Februar 2017</p>    
+</div>
+
+<h3>
+     <p>Benefizkonzert für die Kirchenorgel in Wettelbrunn mit Arrangements für Orgel und das Percussion-Ensemble Non Tacet.</p>
+</h3>
+<br>
+        <a href="http://www.badische-zeitung.de/staufen/bach-mal-ganz-anders--133309294.html"
+           target="_blank">
+            <img
+                class="center-block"
+                src="images/concerts/2917_02_05_Staufen.jpg"
+                alt="Bild Konzert Staufen" 
+                width="70%"/>
+            <br>
+            <h3>
+            Bericht über das Benefizkonzert
+ </h3>
+        </a>
+
+
+        
+
+<br>
+
+
 <h2>Unsere nächsten Termine</h2>
 <ul>
     <li>Sonntag, 23. Oktober, 19:30 Uhr: Kirchenkonzert - Projekt mit Chor<br>

@@ -16,7 +16,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="?=home">Startseite</a></li>
+                <li class="active"><a href="?c=home">Startseite</a></li>
                 <li><a href="?c=events">Termine</a></li>
                   
                 <li class="dropdown">
@@ -25,6 +25,7 @@
                   <ul class="dropdown-menu">
                     <li><a href="?c=crew">Besetzung</a></li>
                     <li><a href="?c=repertoire">Repertoire</a></li>
+                    <li><a href="?c=samples">Hörproben</a></li>
                   </ul>
                 </li>
                 <li><a href="?c=contact">Kontakt</a></li>

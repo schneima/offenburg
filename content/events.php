@@ -1,22 +1,23 @@
 <h2>aktuelle Termine</h2>
 <ul>
+    <li>Sonntag, 02. April, 17 Uhr: Doppelkonzert mit dem HHC Kirchhofen, Gemeindehaus Offnadingen</li>
 
+</ul>
+
+<h2>vergangene Termine</h2>
+<h4>2017</h4>
+<ul>
+    
     <li>Sonntag, 05. Februar 2017<br>
         Benefizkonzert des Orgelbauvereins St. Vitus (Wettelbrunn)<br>
         Orgel und Percussion mit Andreas Mölder und "non tacet", 	Pfarrkirche St. Martin, Staufen, 17 Uhr
     </li> 	
-</ul>
-
-<h2>vergangene Termine</h2>
-<ul>
     <li>Freitag, 06. Januar: Kirchenkonzert, St.Ulrich, Pfarrkirche St. Peter und Paul
         <br>        
     Bericht: <a href="http://www.badische-zeitung.de/bollschweil/klangvolles-schlagwerk-schlagende-klaenge"
                 target="_blank">Klangvolles Schlagwerk – schlagende Klänge</a><br>
                 <a target="_blank"
                         href="./images/concerts/2017_01_plakat_st_ulrich.jpg">Plakat</a> </li>
-                
-    
     </li>
     
 </ul>

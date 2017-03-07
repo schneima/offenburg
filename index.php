@@ -61,11 +61,12 @@
 function GetIncludeFile()
 {
     $folder="./content/";
-    $content="home";
-    if(isset($_GET['c']))
+    $content=filter_input(INPUT_GET, 'c');
+    if(!isset($content))
     {
-        $content=$_GET['c'];
+        $content="home";
     }
+    
     return $folder.$content.".php";
 }
 
