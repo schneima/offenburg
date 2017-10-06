@@ -10,17 +10,15 @@ body
 {
     /* Padding below the footer and lighter body text */    
     padding-bottom: 40px;
-
-    font-family: Gadget, "Arial Black", sans-serif;
-	background-color: #000;
-	color: #FFF;
     font-family: 'Lato', "Arial Black", Gadget, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #000;
+    color: #FFF;
     margin: 0px;
     background-image: url(../images/background_player.jpg);
-
     background-repeat: no-repeat;
     background-attachment: fixed;
-  
 }
 
 /* GLOBAL STYLES
@@ -54,6 +52,11 @@ input, textarea {
 
 .repertoire  {
     width: 500px;
+}
+
+.centered 
+{
+    text-align: center;
 }
 
 

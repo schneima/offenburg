@@ -26,6 +26,7 @@
                     <li><a href="?c=crew">Besetzung</a></li>
                     <li><a href="?c=repertoire">Repertoire</a></li>
                     <li><a href="?c=samples">Hörproben</a></li>
+                    <li><a href="?c=bio">Bio</a></li>
                   </ul>
                 </li>
                 <li><a href="?c=contact">Kontakt</a></li>
