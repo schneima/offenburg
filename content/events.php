@@ -16,7 +16,7 @@
 <h3>2018</h3>
 <ul>
     
-    <li>Freitag, 29. Juni, 20 Uhr: Wein & Percussion, Weigut Mangold, Bollschweil</li>
+    <li>Freitag, 29. Juni, 20 Uhr: Wein & Percussion, Weingut Mangold, Bollschweil</li>
     <li>Sonntag, 11. März, 17 Uhr: Kirchenkonzert, Contz-les-Bains, Frankreich<br>
         <a target="_blank"
            href="http://www.otsierck.com/agenda/78/1826-Percussions-et-orgue-a-Contz-les-Bains.html">
