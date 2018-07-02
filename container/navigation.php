@@ -21,11 +21,16 @@
                   
                 <li class="dropdown">
                   <a href="?c=about" 
-                     class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Über uns <span class="caret"></span></a>
+                     class="dropdown-toggle"
+                     data-toggle="dropdown" 
+                     role="button" 
+                     aria-haspopup="true" 
+                     aria-expanded="false">Über uns <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="?c=crew">Besetzung</a></li>
                     <li><a href="?c=repertoire">Repertoire</a></li>
                     <li><a href="?c=samples">Hörproben</a></li>
+                    <li><a href="?c=press">Presse</a></li>
                   </ul>
                 </li>
                 <li><a href="?c=contact">Kontakt</a></li>

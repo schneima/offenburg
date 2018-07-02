@@ -75,8 +75,35 @@ $includeFile = GetIncludeFile();
 include($includeFile);
         
 ?>
+</div>
+    
+    <footer>
+    
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<p>Besuchen Sie auch unsere facebook Seite</p>
+<p><a target="_blank" href="https://www.facebook.com/nontacet2012"><img src="images/facebook-blue-icon_32.png" >nontacet</a>
+</p>
+<p>
+<span class="fb-like" data-href="https://www.facebook.com/nontacet2012/" 
+         data-width="100" 
+         data-layout="button" 
+         data-action="like" 
+         data-size="small" 
+         data-show-faces="false" 
+         data-share="true"/>
+
+</p>    
          
-    </div>
+</footer>  
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -87,5 +114,8 @@ include($includeFile);
     <script src="./js/vendor/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="./js/ie10-viewport-bug-workaround.js"></script>
+
+    <?php include_once("./includes/analyticstracking.php") ?>
+    
 </body>
 </html>

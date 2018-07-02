@@ -42,6 +42,14 @@ a:visited {
     color: #11F508;    
 }
 
+footer {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
 em {
     font-weight: bold;
     color: #11F508;
@@ -56,7 +64,10 @@ input, textarea {
     width: 500px;
 }
 
-
+.shaddow
+{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
 
 #TitleImage
 {

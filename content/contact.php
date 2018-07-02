@@ -38,7 +38,8 @@ if(isset($_POST['action']))
             echo 'Es gab leider ein Fehler beim Versenden. Bitte versuchen Sie es später noch einmal.';
             echo 'Mailer Error: ' . $mail->ErrorInfo;
         } else {
-            echo "Vielen Dank für Ihre Anfrage. Wir werden uns so schnell wie möglich mit Ihnen in Kontakt setzten.";
+            echo "<h2>Vielen Dank für Ihre Anfrage.</h2>"
+            . "<h3>Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzten.</h3>";
         }        
      }
 }

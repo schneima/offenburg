@@ -69,8 +69,12 @@
 <tr><td>Zirkus Renz</td>	<td>3 min</td>	<td>2014</td></tr>
 <tr><td>The Entertainer</td> <td>3 min</td>	<td>2014</td></tr>
 <!-- <tr><td>Fiesta del Sol</td>	<td></td>	<td>2015</td></tr> -->
+<tr><td>Lausbubenstreiche</td>	<td>3 min</td>	<td>2015</td></tr>
 <tr><td>Tequila Sunrise</td>	<td>4 min</td>	<td>2015</td></tr>
-<tr><td>Nothing Else Matters</td><td>5 min</td>	<td>2015</td></tr>
+<tr><td>Bach Fuge XIII</td> 	<td>3 min</td>	<td>2017</td></tr>
+<tr><td>Bach Fuge XXI</td> 	<td>3 min</td>	<td>2017</td></tr>
+<tr><td>Disco Hüt</td> 	<td>4 min</td>	<td>2018</td></tr>
+
 </table>
 	
 <h3>Body Percussion</h3>		
@@ -89,8 +93,21 @@
   <col width="25%">
   <col width="25%">
 <tr><td>Ball Percussion</td>	<td>5 min</td>	<td>2012</td></tr>
-<tr><td>ous avez du feu</td>	<td>3 min</td>	<td>2012</td></tr>
+<tr><td>Vous avez du feu</td>	<td>3 min</td>	<td>2012</td></tr>
 <tr><td>Rudi Mentals</td> 	<td>5 min</td>	<td>2013</td></tr>
+<tr><td>Groove n Move</td>      <td>5 min</td><td>2013</td></tr>
+<tr><td>Stinkin Garbage</td> 	<td>4 min</td>	<td>2017</td></tr>
+<tr><td>Kleine Tischmusik</td> 	<td>5 min</td>	<td>2018</td></tr>
+</table>
+
+<h3>Gesang</h3>		
+<table class="repertoire">
+  <col width="50%">
+  <col width="25%">
+  <col width="25%">
+<tr><td>Nothing Else Matters</td><td>5 min</td>	<td>2015</td></tr>
+<tr><td>Despacito</td> 	<td>4 min</td>	<td>2018</td></tr>
+
 </table>		
 
 <h2>Trio</h2>		
