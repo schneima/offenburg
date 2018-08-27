@@ -1,21 +1,20 @@
 <h2>aktuelle Termine</h2>
+
 <h3>2018</h3>
 <ul>
-    <li>Samstag, 14. Juli, 20:30 Uhr: Sommerfest, Saalenberghalle Sölden</li>
-    <li>
-        Dienstag, 17. Juli, 18 Uhr: 10 jähriges Jubiläum Verein 
-        <a href="http://www.obere-moehlin.de/" target="_blank">"Hilfe von Haus zu Haus" obere Möhlin e.V.</a>, 
-        Georgsheim in Ehrenstetten
-    </li>
     <li>Donnerstag, 20. September, 20 Uhr: Percussion Night, Bolando, Bollschweil</li>
-
     <li>Samstag, 10. November 2018, 20 Uhr: Konzert mit Chor Crescendo, Möhlinhalle, Bollschweil </li>
 </ul>
 
 <h2>vergangene Termine</h2>
 <h3>2018</h3>
 <ul>
-    
+    <li>
+        Dienstag, 17. Juli, 18 Uhr: 10 jähriges Jubiläum Verein 
+        <a href="http://www.obere-moehlin.de/" target="_blank">"Hilfe von Haus zu Haus" obere Möhlin e.V.</a>, 
+        Georgsheim in Ehrenstetten
+    </li>
+    <li>Samstag, 14. Juli, 20:30 Uhr: Sommerfest, Saalenberghalle Sölden</li>
     <li>Freitag, 29. Juni, 20 Uhr: Wein & Percussion, Weingut Mangold, Bollschweil</li>
     <li>Sonntag, 11. März, 17 Uhr: Kirchenkonzert, Contz-les-Bains, Frankreich<br>
         <a target="_blank"
