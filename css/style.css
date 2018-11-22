@@ -27,11 +27,20 @@ body
 h1{
     color: #11F508;    
     font-size: 3em;
-    text-align: center;}
+    text-align: center;
+}
+
 h2
 {
     color: #11F508;
 }
+
+h3
+{
+    color: #11F508;
+    text-align: center;
+}
+
 a {
     color: #11F508;    
 }
@@ -71,6 +80,9 @@ input, textarea {
     text-align: center;
 }
 
+.bold {
+    font-weight: bold;
+}
 
 #TitleImage
 {
