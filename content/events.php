@@ -1,12 +1,23 @@
 <h2>aktuelle Termine</h2>
 
-<h3>2018</h3>
+<h3>2020</h3>
 <ul>
-
+    <li>Montag, 06. Januar, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
+        Kirchenkonzert<br>
+        Weitere Infos folgen
+    </li>
 </ul>
 
+
+
 <h2>vergangene Termine</h2>
-<h3>2018</h3>
+<details>
+    <summary class="h3">2019</summary>
+    <h3>PAUSE</h3>
+
+</details>
+<details>
+    <summary class="h3">2018</summary>
 <ul>
     <li>Samstag, 10. November 2018, 20 Uhr: Konzert mit Chor Crescendo, Möhlinhalle, Bollschweil </li>
     <li>Donnerstag, 20. September, 20 Uhr: Percussion Night, Bolando, Bollschweil</li>
@@ -37,6 +48,8 @@
     </li>
 </ul>
 
+
+</details>
 <details>
     <summary class="h3">2017</summary>
     <ul>
