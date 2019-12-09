@@ -2,9 +2,14 @@
 
 <h3>2020</h3>
 <ul>
-    <li>Montag, 06. Januar, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
+    <li>Montag, 06. Januar, 17 Uhr: Dreikönigskonzert 2020, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
         Kirchenkonzert<br>
-        Weitere Infos folgen
+        <a target="_blank" href="./images/concerts/2020_01_plakat_st_ulrich.jpg">
+            <img alt="Plakat Dreikönigskonzert 2020"
+            width="40%"
+            src="./images/concerts/2020_01_plakat_st_ulrich.jpg" />
+        </a>
+
     </li>
 </ul>
 

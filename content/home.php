@@ -1,7 +1,7 @@
 <h1>Nontacet - Percussion Ensemble</h1>
 <?php
 
-$refDate=new DateTime("2018-03-11 23:30:00");
+$refDate=new DateTime("2020-01-06 23:30:00");
 $nowDate=new DateTime('NOW');
 
 if($nowDate < $refDate)
@@ -23,11 +23,9 @@ if($nowDate < $refDate)
 <article style="<?php echo $beforeStyle;  ?>">
     <h3>Neue Termine</h3>
     <p>
-        Unsere erste Auslandsreise steht an...<br>
-        Am <em>Sonntag, 11.März 2018</em> spielen wir in Contz-les-Bains, Frankreich ein Kirchenkonzert.
+        Nach unserer Pause steht vorerst ein neuer Auftritt an. Schonmal vormerken:<br>
+        Am <em>Montag, 06. Januar 2020</em> gestalten wir zusammen mit musikalsichen Freunden ein Kirchenkonzert.
     </p>
         
-    <p>Beginn ist <em>17 Uhr</em></p>
-
-    <p>Dieser und weitere neue Konzertetermine unter <a href="?c=events">Termine</a> </p>
+    <p>Weitere Informationen unter <a href="?c=events">Termine</a> </p>
 </article>
