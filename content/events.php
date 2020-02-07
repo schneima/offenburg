@@ -1,5 +1,7 @@
 <h2>aktuelle Termine</h2>
+<h3>Keine neuen Termine bekannt</h3>
 
+<h2>vergangene Termine</h2>
 <h3>2020</h3>
 <ul>
     <li>Montag, 06. Januar, 17 Uhr: Dreikönigskonzert 2020, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
@@ -9,13 +11,14 @@
             width="40%"
             src="./images/concerts/2020_01_plakat_st_ulrich.jpg" />
         </a>
+        <br>
+
+        Bericht: <a target="_blank" href="https://www.badische-zeitung.de/feierlich-majestaetisch-koeniglich">
+        Feierlich, majestätisch, königlich</a>
 
     </li>
 </ul>
 
-
-
-<h2>vergangene Termine</h2>
 <details>
     <summary class="h3">2019</summary>
     <h3>PAUSE</h3>
