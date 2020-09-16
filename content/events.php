@@ -1,9 +1,22 @@
 <h2>aktuelle Termine</h2>
 <h3>Keine neuen Termine bekannt</h3>
 
-<h2>vergangene Termine</h2>
-<h3>2020</h3>
 <ul>
+    <li>
+    Freitag, 18. September 2020, 18 Uhr: Pop-up Konzert, Markt/Pfarrgarten, Bollschweil<br>
+    <a target="_blank" href="./images/concerts/2020_09_18-Bollschweil.jpeg">
+            <img alt="Plakat Pop-Up Konzert 2020"
+            width="40%"
+            src="./images/concerts/2020_09_18-Bollschweil.jpeg" />
+        </a>
+    
+    </li>
+</ul>
+
+<h2>vergangene Termine</h2>
+<details>
+    <summary class="h3">2020</summary>
+    <ul>
     <li>Montag, 06. Januar, 17 Uhr: Dreikönigskonzert 2020, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
         Kirchenkonzert<br>
         <a target="_blank" href="./images/concerts/2020_01_plakat_st_ulrich.jpg">
@@ -18,6 +31,8 @@
 
     </li>
 </ul>
+
+</details>
 
 <details>
     <summary class="h3">2019</summary>
