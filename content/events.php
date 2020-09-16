@@ -1,9 +1,8 @@
 <h2>aktuelle Termine</h2>
-<h3>Keine neuen Termine bekannt</h3>
 
 <ul>
     <li>
-    Freitag, 18. September 2020, 18 Uhr: Pop-up Konzert, Markt/Pfarrgarten, Bollschweil<br>
+    Freitag, 18. September 2020, 18 Uhr: Pop-up Konzert, Milchhäusle (beim Markt/Pfarrgarten), Bollschweil<br>
     <a target="_blank" href="./images/concerts/2020_09_18-Bollschweil.jpeg">
             <img alt="Plakat Pop-Up Konzert 2020"
             width="40%"
