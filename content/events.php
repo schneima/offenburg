@@ -1,6 +1,33 @@
 <h2>aktuelle Termine</h2>
 
+<h3>-</h3>
 <ul>
+</ul>
+
+<h2>vergangene Termine</h2>
+
+<details>
+    <summary class="h3">2022</summary>
+    <ul>
+        <li>
+            Freitag, 08. April 2022, 15 Uhr: musikalische Umrahmung Hochzeit, Rathaus, Bollschweil<br>
+        </li>
+    </ul>
+
+</details>
+
+
+<details>
+    <summary class="h3">2021</summary>
+    <ul>
+        <li>
+            Samstag, 18. Dezember 2021, 19 Uhr: Lebendiger Advendskalender, Möhlinhalle, Bollschweil<br>
+        </li>
+    </ul>
+</details>
+<details>
+    <summary class="h3">2020</summary>
+    <ul>
     <li>
     Freitag, 18. September 2020, 18 Uhr: Pop-up Konzert, Milchhäusle (beim Markt/Pfarrgarten), Bollschweil<br>
     <a target="_blank" href="./images/concerts/2020_09_18-Bollschweil.jpeg">
@@ -10,12 +37,7 @@
         </a>
     
     </li>
-</ul>
 
-<h2>vergangene Termine</h2>
-<details>
-    <summary class="h3">2020</summary>
-    <ul>
     <li>Montag, 06. Januar, 17 Uhr: Dreikönigskonzert 2020, St.Ulrich, Pfarrkirche St. Peter und Paul<br>
         Kirchenkonzert<br>
         <a target="_blank" href="./images/concerts/2020_01_plakat_st_ulrich.jpg">
@@ -24,7 +46,6 @@
             src="./images/concerts/2020_01_plakat_st_ulrich.jpg" />
         </a>
         <br>
-
         Bericht: <a target="_blank" href="https://www.badische-zeitung.de/feierlich-majestaetisch-koeniglich">
         Feierlich, majestätisch, königlich</a>
 
